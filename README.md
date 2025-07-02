@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for reference adn practice 
+Schell Scripts for reference and practice 
