@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for reference and practice  fetch
+Schell Scripts for reference and practice guru
